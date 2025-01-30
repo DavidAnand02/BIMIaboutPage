@@ -277,7 +277,7 @@ section#about p,
 section#who-i-am p,
 section#mission p {
   font-size: 1.8em;
-  padding-left: 10px;
+  padding-left: 40px;
   margin-top: 0;  /* Remove or adjust this negative margin */
 }
 
