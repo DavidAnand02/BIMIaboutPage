@@ -4,6 +4,22 @@
   box-sizing: border-box;
 }
 
+body, html {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+* {
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+.card {
+  width: 100%;
+  max-width: 250px; /* Adjust if necessary */
+}
+
+
 body {
   font-family: Arial, sans-serif;
   background-color: #f4f4f4;
